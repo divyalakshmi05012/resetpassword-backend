@@ -11,4 +11,4 @@ GET ->user/data
 to send mail to resetpassword otp use
 POST ->user/reset-password
 Set new password via otp 
-POST->user/getreset-password/:otp/:password
+POST->user/getreset-password/:otp/:password..
